@@ -1,9 +1,9 @@
-# Getting a Gig: A Guide
+# Learn for Growing : A Guide
 
 # Introduction
 
 Hey friends!
-This is a guide for getting a gig in college as a tech major. I graduated May 2014 with 10 job offers after having 5 internships throughout my four years of college. You can do that, too. Because you're great.
+This is a guide for getting a job in college Placement. I will help you to getting job offers and internships in your four years of college. You can do that. Because you're great.
 
 # Contents
 
@@ -108,9 +108,9 @@ Here's a checklist of things that you should probably be prepared to know in a t
 
 - Data types
 - Basic Bitwise Operations
-- String Operations
-- Arrays
-- Linked Lists
+- String Operations ***
+- Arrays ***
+- Linked Lists ***
   - Singly Linked
   - Doubly Linked
   - Circular Linked
